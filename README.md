@@ -1,10 +1,11 @@
 ### Hi there 👋
 # 💫I'm Nico Filips, A Backend Developer from Augsburg, Germany.
 - 🏁 I'm working for a big sportscar brand in Germany
-- 🎮 I love trackmania E-Sports
-- 🌱 I’ve been building React SPA's, but I'm a bit rusty so I'm here to update my skills
-- 🔒 Since I've been working on closed software my entire career, my contribution graph doesn't really portray my real contributions
+- 🏒 I've been on the ice since I'm 5 years old, currently I'm a semi-professional Linesman
 - 📝 I'm a .Net/C# Backend Dev, pretty much doing everything from implementing APIs to writing Tests
+- 🌱 I’ve been building React SPA's, but I'm a bit rusty so I'm here to update my skills
+- 🎮 I love trackmania E-Sports
+- 🔒 Since I've been working on closed software my entire career, my contribution graph doesn't really portray my real contributions
 - ☁️ For me its really enjoyable to work with Azure so that's why I got some Azure projects as well
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NicoFilips/)
