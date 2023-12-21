@@ -1,5 +1,7 @@
 ### Hi there 👋
 # 💫I'm Nico Filips, A Backend Developer from Augsburg, Germany.
+- 🏁 I'm working for a big sportscar brand in Germany
+- 🎮 I love trackmania E-Sports
 - 🌱 I’ve been building React SPA's, but I'm a bit rusty so I'm here to update my skills
 - 🔒 Since I've been working on closed software my entire career, my contribution graph doesn't really portray my real contributions
 - 📝 I'm a .Net/C# Backend Dev, pretty much doing everything from implementing APIs to writing Tests
