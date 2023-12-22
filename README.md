@@ -9,8 +9,8 @@
 - ☁️ For me its really enjoyable to work with Azure so that's why I got some Azure projects as well
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NicoFilips/)
-[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/NicoFilips)
-
+</br>
+[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/NicoFilips)
 <!--
 **NicoFilips/NicoFilips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
