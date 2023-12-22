@@ -9,6 +9,7 @@
 - ☁️ For me its really enjoyable to work with Azure so that's why I got some Azure projects as well
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NicoFilips/)
+[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/NicoFilips)
 
 <!--
 **NicoFilips/NicoFilips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +33,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicoFilips&theme=shades-of-purple&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=NicoFilips&icon=0&color=6)](https://visitcount.itsvg.in)
+
