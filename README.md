@@ -4,7 +4,7 @@
 - 🏒 I've been on the ice since I'm 5 years old, currently I'm a semi-professional Linesman
 - 📝 I'm a .Net/C# Backend Dev, pretty much doing everything from implementing APIs to writing Tests
 - 🌱 I’ve been building React SPA's, but I'm a bit rusty so I'm here to update my skills
-- 🎮 I love trackmania E-Sports
+- 🎮 I love E-Sports
 - 🔒 Since I've been working on closed software my entire career, my contribution graph doesn't really portray my real contributions
 - ☁️ For me its really enjoyable to work with Azure so that's why I got some Azure projects as well
 
