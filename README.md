@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 💫I'm Nico Filips, A Backend Developer from Augsburg, Germany.
+# 💫 I'm Nico Filips, A Backend Developer from Augsburg, Germany.
 - 🏁 I'm working for a big sportscar brand in Germany
 - 🏒 I've been on the ice since I'm 5 years old, currently I'm a semi-professional Linesman
 - 📝 I'm a .Net/C# Backend Dev, pretty much doing everything from implementing APIs to writing Tests
