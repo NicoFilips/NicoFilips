@@ -12,7 +12,7 @@
 </br>
 [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/NicoFilips)
 
-### Techstack:
+## Techstack:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white)
@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Quick stats about me
+## Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
 | ![IhrUsername's github stats](https://github-readme-stats.vercel.app/api?username=NicoFilips&rank_icon=github&show_icons=true&theme=shades-of-purple&count_private=true) | ![IhrUsername's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoFilips&show_icons=true&theme=shades-of-purple&count_private=true&layout=compact) |
