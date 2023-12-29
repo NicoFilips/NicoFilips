@@ -29,8 +29,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicoFilips&theme=shades-of-purple&hide_border=false)<br/>
 
 ## Languages I speak:
-🇩🇪 - C2
-🇺🇸 - C1
+🇩🇪 - C2 <br>
+🇺🇸 - C1 <br>
 🇷🇺 - A1
 
 [![](https://visitcount.itsvg.in/api?id=NicoFilips&icon=0&color=6)](https://visitcount.itsvg.in)
