@@ -28,5 +28,10 @@
 | ![IhrUsername's github stats](https://github-readme-stats.vercel.app/api?username=NicoFilips&rank_icon=github&show_icons=true&theme=shades-of-purple&count_private=true) | ![IhrUsername's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoFilips&show_icons=true&theme=shades-of-purple&count_private=true&layout=compact) |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicoFilips&theme=shades-of-purple&hide_border=false)<br/>
 
+## Languages I speak:
+🇩🇪 - C2
+🇺🇸 - C1
+🇷🇺 - A1
+
 [![](https://visitcount.itsvg.in/api?id=NicoFilips&icon=0&color=6)](https://visitcount.itsvg.in)
 
