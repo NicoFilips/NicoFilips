@@ -6,7 +6,7 @@
 - 🌱 I’ve been building React SPA's, but I'm a bit rusty so I'm here to update my skills
 - 🎮 I love E-Sports
 - 🔒 Since I've been working on closed software my entire career, my contribution graph doesn't really portray my real contributions
-- ☁️ For me its really enjoyable to work with Azure so that's why I got some Azure projects I'm working on as well
+- ☁️ For me its really enjoyable to work with Azure so that's why I got some Azure projects I'm working on as well!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NicoFilips/)
