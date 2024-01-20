@@ -35,9 +35,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicoFilips&theme=shades-of-purple&hide_border=false)<br/>
 
 ## 🌎 Languages I speak:
-| Main    | 🏆 | Second    | 🏆 | Learning    | 🏆 |
-|-------------|-------|-------------|-------|-------------|-------|
-|🇩🇪 - German  | C2    |🇺🇸 - English | C1    |🇷🇺 - Russian | A1 |
+| Main    | 🏆 | Second    | 🏆 | Learning    | 🏆 | Planned | |
+|-------------|-------|-------------|-------|-------------|-------|-------------|-------|
+|🇩🇪 - German  | C2    |🇺🇸 - English | C1    |🇷🇺 - Russian | A1 | 🇫🇷 - French
 
 [![](https://visitcount.itsvg.in/api?id=NicoFilips&icon=0&color=6)](https://visitcount.itsvg.in)
 
