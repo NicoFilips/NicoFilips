@@ -3,11 +3,11 @@
 - 🏁 I'm working for a big sportscar brand in Germany
 - 🏒 I've been on the ice since I'm 5 years old, currently I'm a semi-professional Linesman
 - 📝 I'm a .Net/C# Backend Dev, pretty much doing everything from implementing APIs to writing Tests
-- 🌱 I’ve been building React SPA's, but I'm a bit rusty so I'm here to update my skills
+- 🌱 I’m building React SPA's occasionally, but I tend to get rusty in the node.js world from time to time so I'm here to update my skills
 - 🎮 I love E-Sports
 - 🔒 Since I've been working on closed software my entire career, my contribution graph doesn't really portray my real contributions
-- ☁️ For me its really enjoyable to work with Azure so that's why I got some Azure projects I'm working on as well!
-- 🚀 Building CI/CD/CT pipelines with GH Actions and GitLab, usually with yaml, really gives me joy
+- ☁️ Its satisfying to work with Azure, that's why I've also taken on some Azure projects!
+- 🚀 Crafting CI/CD/CT pipelines with GH Actions and GitLab, most likely using YAML, is a lot of fun
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NicoFilips/)
