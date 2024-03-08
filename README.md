@@ -9,7 +9,6 @@
 - ☁️ Its satisfying to work with Azure, that's why I've also taken on some Azure projects!
 - 🚀 Crafting CI/CD/CT pipelines with GH Actions and GitLab, most likely using YAML, is a lot of fun
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NicoFilips/)
 </br>
 [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/NicoFilips)
