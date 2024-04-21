@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 I'm Nico Filips, A Backend Developer from Augsburg.
-- 🏁 I'm working for a big sportscar brand in Germany
+- 🏁 I'm working for a german big sportscar brand
 - 🏒 I've been on the ice since I'm 5 years old, currently I'm a semi-professional Linesman
 - 📝 I'm a .Net/C# Backend Dev, pretty much doing everything from implementing APIs to writing Tests
 - 🌱 I’m building React SPA's occasionally, but I tend to get rusty in the node.js world from time to time so I'm here to update my skills
