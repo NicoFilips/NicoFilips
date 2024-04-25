@@ -36,7 +36,7 @@
 ## 🌎 Languages I speak:
 | Main    | 🏆 | Second    | 🏆 | Learning    | 🏆 | Deferred learning | 🏆 |
 |-------------|-------|-------------|-------|-------------|-------|-------------|-------|
-|🇩🇪 - German  | C2    |🇺🇸 - English | C1    | 🇫🇷 - French | A1 | 🇫🇷 - French | A1 |
+|🇩🇪 - German  | C2    |🇺🇸 - English | C1    | 🇫🇷 - French | A1 | 🇷🇺 - Russian | A1 |
 
 [![](https://visitcount.itsvg.in/api?id=NicoFilips&icon=0&color=6)](https://visitcount.itsvg.in)
 
