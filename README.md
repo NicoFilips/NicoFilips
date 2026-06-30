@@ -3,12 +3,12 @@
 # 💫 Full-Stack Developer from Zürich
 
 - 🏁 I used to work for a big sportscar brand
-- 🎓 Now I'm developing software for schools & education at CMInformatik
-- 🏒 On the ice since age 5 — currently officiating as semi-professional Linesman
+- 🎓 Now I'm developing software for schools & education
+- 🏒 On the ice since 20 years — currently officiating as semi-professional Linesman
 - 📝 .NET / C# Backend Dev — APIs, services, tests, the boring-but-load-bearing stuff
 - 🌱 React + TypeScript on the frontend — still leveling up my Node ecosystem game
-- 🎮 Long-time E-Sports fan — been to a fair share of live tournaments (mostly the tactical-shooter kind 😏)
-- 🔒 Most of my work lives behind closed-source enterprise repos — my public contribution graph doesn't reflect the real story
+- 🎮 Long-time E-Sports fan — been to a fair share of live tournaments
+- 🔒 Most of my work lives behind closed-source enterprise repos
 - ☁️ Azure is my cloud of choice — enjoying side-projects with App Service, Functions and Container Apps
 - 🚀 Building CI/CD pipelines (GitHub Actions, GitLab CI, plenty of YAML) is genuinely my happy place
 
